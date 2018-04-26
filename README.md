@@ -1,6 +1,6 @@
 # Youtube-Clone
-Utilized React frontend to design a YouTube-like app to search and display videos for fast response
-Implemented lievsearch and debouncer searching by using YouTube-API
+- Utilized React frontend to design a YouTube-like app to search and display videos for fast response
+- Implemented lievsearch and debouncer searching by using YouTube-API
 
 ## Built with
 - [React](https://facebook.github.io/react/ "React")
