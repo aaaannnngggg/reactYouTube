@@ -1,25 +1,11 @@
-# ReduxSimpleStarter
+# Youtube-Clone
+	Utilized React frontend to design a YouTube-like app to search and display videos for fast response
+	Implemented lievsearch and debouncer searching by using YouTube-API
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
-
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
+## Built with
+- [React](https://facebook.github.io/react/ "React")
+- Boilerplate [ReduxSimpleStarter](https://github.com/StephenGrider/ReduxSimpleStarter "ReduxSimpleStarter")
+- [Bootstrap](http://getbootstrap.com/ "Bootstrap")
+- [Lodash](https://lodash.com/ "Lodash") utility library
+- [Youtube API](https://developers.google.com/youtube/ "Youtube API") by Google
+- [youtube-api-search](https://www.npmjs.com/package/youtube-api-search "youtube-api-search") package
